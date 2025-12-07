@@ -1,0 +1,2 @@
+# 给予钻石棍
+give @p minecraft:diamond_sword{CustomModelData:1001,display:{Name:'{"text":"钻石棍","color":"aqua","bold":true,"italic":false}',Lore:['{"text":"攻击伤害: 10","color":"gray"}','{"text":"可用下界合金升级","color":"dark_gray"}']},HideFlags:1,AttributeModifiers:[{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:9,Operation:0,UUID:[I;1,2,3,4],Slot:"mainhand"},{AttributeName:"generic.attack_speed",Name:"generic.attack_speed",Amount:-2.4,Operation:0,UUID:[I;1,2,3,5],Slot:"mainhand"}]} 1
